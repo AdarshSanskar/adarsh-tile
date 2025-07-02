@@ -1,4 +1,4 @@
-# adarsh-tile
+
 # 👋 Hey there! I'm Adarsh Santosh Tile
 
 🎯 A passionate programmer and creative thinker who loves solving problems through code and visuals.
